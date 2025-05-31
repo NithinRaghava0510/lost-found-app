@@ -1,0 +1,33 @@
+/* /frontend/src/index.css */
+
+/* Basic styling to give some spacing */
+body {
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+/* Centered loading spinner */
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+/* Table search input */
+.search-input {
+  max-width: 300px;
+}
+
+/* Card styling for individual items */
+.item-card {
+  margin-bottom: 15px;
+}
+
+/* Navbar overrides */
+.navbar-brand {
+  font-weight: bold;
+}

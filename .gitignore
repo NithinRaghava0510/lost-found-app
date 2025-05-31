@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Build artifacts
+frontend/build/
+# Depending on your OS or IDE, ignore these:
+.DS_Store
+.env
+uploads/
+*.log
